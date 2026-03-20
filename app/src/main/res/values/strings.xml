@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">evaluacion-M6-master</string>
+    <string name="app_name">Zoológico App</string>
+    <string name="detail_title">Detalle del Animal</string>
+    <string name="habitat">Hábitat</string>
+    <string name="dieta">Dieta</string>
+    <string name="descripcion">Descripción</string>
+    <string name="estado_conservacion">Estado de Conservación</string>
+    <string name="esperanza_vida">Esperanza de Vida</string>
+    <string name="peso_promedio">Peso Promedio</string>
+    <string name="altura_promedio">Altura Promedio</string>
+    <string name="datos_curiosos">Datos Curiosos</string>
+    <string name="comidas_favoritas">Comidas Favoritas</string>
+    <string name="predadores_naturales">Predadores Naturales</string>
+    <string name="send_email">Solicitar información por correo</string>
 </resources>

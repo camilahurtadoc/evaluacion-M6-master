@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.ZoologicoApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Colores primarios -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/dark_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Colores secundarios -->
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Colores de texto predeterminados -->
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+
+        <!-- Color de fondo de la ventana -->
+        <item name="android:windowBackground">@color/white</item>
+
+        <!-- Barra de estado -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/dark_primary</item>
+
+        <!-- Color de divisor -->
+        <item name="android:listDivider">@color/divider</item>
+    </style>
+</resources>
